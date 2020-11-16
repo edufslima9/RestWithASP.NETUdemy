@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ASP.NET Workspace\\RestWithASP.NETUdemy\\RestWithASPNETUdemy - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {}
+    "E:\\ASP.NET Workspace\\RestWithASP.NETUdemy\\RestWithASPNETUdemy - Using Diferent Verbs\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {}
   },
   "projects": {
-    "E:\\ASP.NET Workspace\\RestWithASP.NETUdemy\\RestWithASPNETUdemy - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {
+    "E:\\ASP.NET Workspace\\RestWithASP.NETUdemy\\RestWithASPNETUdemy - Using Diferent Verbs\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ASP.NET Workspace\\RestWithASP.NETUdemy\\RestWithASPNETUdemy - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+        "projectUniqueName": "E:\\ASP.NET Workspace\\RestWithASP.NETUdemy\\RestWithASPNETUdemy - Using Diferent Verbs\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
         "projectName": "RestWithASPNETUdemy",
-        "projectPath": "E:\\ASP.NET Workspace\\RestWithASP.NETUdemy\\RestWithASPNETUdemy - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+        "projectPath": "E:\\ASP.NET Workspace\\RestWithASP.NETUdemy\\RestWithASPNETUdemy - Using Diferent Verbs\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "E:\\ASP.NET Workspace\\RestWithASP.NETUdemy\\RestWithASPNETUdemy - Calculator\\RestWithASPNETUdemy\\obj\\",
+        "outputPath": "E:\\ASP.NET Workspace\\RestWithASP.NETUdemy\\RestWithASPNETUdemy - Using Diferent Verbs\\RestWithASPNETUdemy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config",
